@@ -1,8 +1,21 @@
+About this project
+
+This tool was developed as part of a bachelor's thesis:
+
+"Development and implementation of a tool for analyzing protein–protein interaction interfaces based on the three-dimensional structure of a complex in PyMOL" ("Opracowanie i implementacja narzędzia do analizy interfejsu oddziaływań białko-białko w oparciu o trójwymiarową strukturę kompleksu w programie PyMol")
+
+Author: Solomiia Navachkevych
+
+Institution: University of Warsaw, Faculty of Biology
+
+Program: Bachelor's degree in Biotechnology
+
+Supervisor: dr Norbert Odolczyk, Laboratory of Systems Biology (Zakład Biologii Systemów)
+
+
 PDB Interface Analyzer
 
 A PyMOL plugin for analyzing protein–protein interfaces from PDB/CIF structures.
-
-Developed as part of a bachelor's thesis project.
 
 The program automatically detects and visualizes interactions between two specified chains in a protein structure, calculating hydrogen bonds, salt bridges, hydrophobic contacts, and solvent-accessible surface area (SASA/BSA).
 
