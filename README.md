@@ -10,7 +10,7 @@ Institution: University of Warsaw, Faculty of Biology
 
 Program: Bachelor's degree in Biotechnology
 
-Supervisor: dr Norbert Odolczyk, Laboratory of Systems Biology (Zakład Biologii Systemów)
+Supervisor: dr Norbert Odolczyk, Laboratory of Systems Biology 
 
 
 PDB Interface Analyzer
