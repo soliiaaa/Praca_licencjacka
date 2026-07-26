@@ -13,6 +13,8 @@ Program: Bachelor's degree in Biotechnology
 Supervisor: dr Norbert Odolczyk, Laboratory of Systems Biology 
 
 
+
+
 PDB Interface Analyzer
 
 A PyMOL plugin for analyzing protein–protein interfaces from PDB/CIF structures.
